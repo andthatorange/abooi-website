@@ -31,4 +31,12 @@ a{
 .intro{
     padding:80px;
     background-color: #1F2937;
+    display: flex;
+}
+.intro-right{
+    
+    padding:40px;
+}
+.intro-left{
+
 }
