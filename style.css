@@ -1,6 +1,6 @@
 header{
     display: flex;
-    padding: 10px;
+    padding-top: 10px;
     background-color: #1F2937;
     
 }
@@ -9,8 +9,8 @@ a{
    
 }
 .header-left{
-    margin-left: 100px;
-    margin-right: 600px;
+    margin-left: 200px;
+    margin-right: 500px;
 }
 .header-left a{
     font: 24px ;
@@ -18,7 +18,8 @@ a{
     text-transform: uppercase;
 }
 .header-right{
-    margin-left: 600px;
+    margin-left: 500px;
+    margin-right:200px;
     text-transform: lowercase;
 }
 .header-right a{
@@ -30,14 +31,23 @@ a{
     color: rgb(255, 177, 75);
 }
 .intro{
-    padding:80px;
     background-color: #1F2937;
+    padding-top: 100px;
+    padding-bottom: 100px;
     display: flex;
 }
 .intro-right{
-    padding:40px;
+    
+}
+.intro-left{
+    margin-left: 200px;
 }
 .big-text{
     font:48px bolder;
     color: #F9FAF8;
+    
+}
+.small-text{
+    font: 18px ;
+    color: #E5E7EB;
 }
