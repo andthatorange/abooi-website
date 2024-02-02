@@ -35,9 +35,9 @@ a{
     display: flex;
 }
 .intro-right{
-    
     padding:40px;
 }
-.intro-left{
-
+.big-text{
+    font:48px bolder;
+    color: #F9FAF8;
 }
