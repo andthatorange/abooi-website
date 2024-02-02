@@ -37,10 +37,12 @@ a{
     display: flex;
 }
 .intro-right{
-    
+    width: 400px;
 }
 .intro-left{
+    width: 600px;
     margin-left: 200px;
+    margin-right: 100px;
 }
 .big-text{
     font:48px bolder;
@@ -50,4 +52,7 @@ a{
 .small-text{
     font: 18px ;
     color: #E5E7EB;
+}
+.img-intro{
+object-fit: contain;
 }
