@@ -8,8 +8,16 @@ a{
     text-decoration: none;
    
 }
+header a:hover{
+    color: antiquewhite;
+}
 .header-left{
     margin-left: 100px;
+}
+.header-left a{
+    font: 24px ;
+    color: #F9FAF8;
+    text-transform: uppercase;
 }
 .header-right{
     margin-left: 450px;
