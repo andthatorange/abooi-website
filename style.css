@@ -6,8 +6,7 @@ header{
 }
 a{
     text-decoration: none;
-    color: white;
-    padding-left: 20px;
+   
 }
 .header-left{
     margin-left: 100px;
@@ -17,5 +16,7 @@ a{
     text-transform: lowercase;
 }
 .header-right a{
-    font: 18px #E5E7EB;
+    font: 18px ;
+    color: #E5E7EB;
+    padding-left: 20px;
 }
