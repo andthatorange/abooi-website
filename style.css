@@ -10,6 +10,7 @@ a{
 }
 .header-left{
     margin-left: 100px;
+    margin-right: 600px;
 }
 .header-left a{
     font: 24px ;
@@ -17,16 +18,16 @@ a{
     text-transform: uppercase;
 }
 .header-right{
-    margin-left: 450px;
+    margin-left: 600px;
     text-transform: lowercase;
 }
 .header-right a{
     font: 18px ;
     color: #E5E7EB;
-    padding-left: 20px;
+    padding-left: 60px;
 }
 .header-right a:hover{
-    color: antiquewhite;
+    color: rgb(255, 177, 75);
 }
 .intro{
     padding:80px;
