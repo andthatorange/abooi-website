@@ -7,9 +7,10 @@ header{
 a{
     text-decoration: none;
     color: white;
+    padding-left: 20px;
 }
 
 .header-right{
-    margin-left: 500px;
+    margin-left: 600px;
     text-transform: lowercase;
 }
