@@ -9,8 +9,13 @@ a{
     color: white;
     padding-left: 20px;
 }
-
+.header-left{
+    margin-left: 100px;
+}
 .header-right{
-    margin-left: 600px;
+    margin-left: 450px;
     text-transform: lowercase;
+}
+.header-right a{
+    font: 18px #E5E7EB;
 }
