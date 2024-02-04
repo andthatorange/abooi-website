@@ -37,8 +37,9 @@ a{
     display: flex;
 }
 .intro-right{
-    width: 600px;
+    width: 800px;
     margin-right: 100px;
+    margin-left:100px;
 }
 .intro-left{
     width: 600px;
