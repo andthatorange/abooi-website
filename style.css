@@ -18,14 +18,14 @@ a{
     text-transform: uppercase;
 }
 .header-right{
-    margin-left: 500px;
+    margin-left: 300px;
     margin-right:200px;
     text-transform: lowercase;
 }
 .header-right a{
     font: 18px ;
     color: #E5E7EB;
-    padding-left: 60px;
+    padding-left: 137px;
 }
 .header-right a:hover{
     color: rgb(255, 177, 75);
