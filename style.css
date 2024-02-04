@@ -1,3 +1,7 @@
+p{
+    margin: 0;
+    padding: 0;
+}
 header{
     display: flex;
     padding-top: 20px;
@@ -9,8 +13,8 @@ a{
    
 }
 .header-left{
-    margin-left: 200px;
-    margin-right: 500px;
+    margin-left: 250px;
+    margin-right: 450px;
 }
 .header-left a{
     font: 24px ;
@@ -19,7 +23,7 @@ a{
 }
 .header-right{
     margin-left: 300px;
-    margin-right:200px;
+    margin-right:250px;
     text-transform: lowercase;
 }
 .header-right a{
@@ -32,15 +36,15 @@ a{
 }
 .intro{
     background-color: #1F2937;
-    padding-top: 100px;
+    padding-top: 160px;
     padding-bottom: 100px;
     display: flex;
 }
 .intro-left{
-    width: 600px;
+    width: 500px;
     height:400px;
-    margin-left: 200px;
-    margin-right: 100px;
+    margin-left: 250px;
+    margin-right: px;
 }
 .big-text{
     font:48px bolder;
@@ -48,14 +52,15 @@ a{
     
 }
 .small-text{
+    margin-top: 20px;
     font: 18px ;
     color: #E5E7EB;
 }
 .intro-right{
-    width: 800px;
-    height: 400px;
-    margin-right: 200px;
-    margin-left:100px;
+    width: 900px;
+    height: 380px;
+    margin-right: 250px;
+    margin-left:50px;
 }
 .img-intro{
     width:100%;
@@ -69,6 +74,6 @@ a{
     border-color: #3882F6;
     color: white;
     font-size: 20px;
-    margin-top: 5px;
+    margin-top: 20px;
     border-radius: 6px;
 }
