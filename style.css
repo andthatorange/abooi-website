@@ -87,7 +87,7 @@ a{
     height: 500px;
     border: solid pink;
 }
-.info p{
+.info-text{
     padding: 50px;
     border: solid olive;
     font: 36px bolder;
@@ -102,4 +102,14 @@ a{
     border:solid blue;
     padding: 50px;
     margin-right: 100px;
+}
+.image-container img{
+    height:100px;
+    width:100px;
+    border-radius: 8px;
+    border: solid #3882F6;
+}
+.image-container p{
+    padding:0;
+
 }
