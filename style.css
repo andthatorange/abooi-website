@@ -43,13 +43,14 @@ a{
     border: solid purple;
 }
 .intro-left{
-    width: 600px;
+    width: 700px;
     margin-left: 250px;
     margin-right: px;
     border: solid blue;
 }
 .big-text{
-    font:48px bolder;
+    font-size:48px;
+    font-weight: 800;
     color: #F9FAF8;
     border: solid pink;
     
@@ -90,7 +91,8 @@ a{
 .info-text{
     padding: 50px;
     border: solid olive;
-    font: 36px bolder;
+    font-size: 36px;
+    font-weight: 900;
     color:#1F2937;
 }
 .players{
