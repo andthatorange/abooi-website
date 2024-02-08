@@ -96,15 +96,13 @@ a{
 .players{
     display: flex;
     justify-content: center;
-    border: solid purple;
 }
 .players div{
-    border:solid blue;
-    margin-right: 100px;
+    margin-right: 70px;
 }
 .players img{
-    height:160px;
-    width:190px;
+    height:230px;
+    width:260px;
     border-radius: 15px;
     border: solid #3882F6;
 }
