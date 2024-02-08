@@ -93,22 +93,22 @@ a{
     font: 36px bolder;
     color:#1F2937;
 }
-.image-container{
+.players{
     display: flex;
     justify-content: center;
     border: solid purple;
 }
-.image-container div{
+.players div{
     border:solid blue;
     margin-right: 100px;
 }
-.image-container img{
+.players img{
     height:160px;
     width:190px;
     border-radius: 15px;
     border: solid #3882F6;
 }
-.image-container p{
+.players p{
     padding:0;
     border:solid olive;
 
