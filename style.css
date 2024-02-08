@@ -113,3 +113,17 @@ a{
     border:solid olive;
 
 }
+.quote-box{
+    border:solid red;
+    height:400px;
+    background-color: #EFE7EB;
+    justify-content: center;
+    
+}
+.quote{
+    border: solid black;
+    text-align: center;
+}
+.reference{
+    border: solid salmon;
+}
