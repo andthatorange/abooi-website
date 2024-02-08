@@ -115,24 +115,24 @@ a{
 }
 .quote-box{
     border:solid red;
-    height:400px;
+    height:500px;
     background-color: #EFE7EB;
     justify-content: center;
     
 }
 .quote{
     border: solid black;
-    text-align: center;
+    justify-content: center;
     font-size: 36px;
     font-style: italic;
     color:#1F2937;
-    margin-top: 100px;
-    padding: 100px;
+    width: 750px;
+    margin-top: 50px;
     font-weight: lighter;
 }
 .reference{
     border: solid salmon;
     margin-left: 900px;
     margin-top: 30px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
