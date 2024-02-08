@@ -100,12 +100,11 @@ a{
 }
 .image-container div{
     border:solid blue;
-    padding: 50px;
     margin-right: 100px;
 }
 .image-container img{
-    height:100px;
-    width:100px;
+    height:110px;
+    width:150px;
     border-radius: 8px;
     border: solid #3882F6;
 }
