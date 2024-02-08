@@ -6,7 +6,7 @@ header{
     display: flex;
     padding-top: 20px;
     background-color: #1F2937;
-    
+
 }
 a{
     text-decoration: none;
@@ -27,7 +27,7 @@ a{
     text-transform: lowercase;
 }
 .header-right a{
-    font: 18px ;
+    font-size: 18px ;
     color: #E5E7EB;
     padding-left: 135px;
 }
