@@ -117,23 +117,21 @@ a{
     border:solid red;
     height:500px;
     background-color: #EFE7EB;
+    display: flex;
+    justify-content: center;
     
 }
 .quote{
     border: solid black;
-    
     font-size: 36px;
     font-style: italic;
     color:#1F2937;
     width: 750px;
-    margin-top: 150px;
     padding: 10px;
     font-weight: lighter;
 }
 .reference{
     border: solid salmon;
-    margin-left: 950px;
-    margin-bottom: 50px;
     font-size: 25px;
     font-weight: 700;
 }
