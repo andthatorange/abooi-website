@@ -133,9 +133,12 @@ a{
     align-items: center;
 }
 .reference{
+    height: fit-content;
+    margin-top: 340px;
     border: solid salmon;
     font-size: 25px;
     font-weight: 700;
+    margin-left: -360px;
 }
 .callToAction-box{
     display: flex;
