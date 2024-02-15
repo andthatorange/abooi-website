@@ -2,6 +2,9 @@ p{
     margin: 0;
     padding: 0;
 }
+body{
+    background-color: #1F2937;
+}
 header{
     display: flex;
     align-items: center;
@@ -87,6 +90,7 @@ a{
     border-radius: 6px;
 }
 .info{
+    background-color: #F9FAF8;
     text-align: center;
     height: 500px;
 }
@@ -138,6 +142,7 @@ a{
     margin-left: -360px;
 }
 .callToAction-box{
+    background-color: #F9FAF8;
     height: 400px;
     display: flex;
     justify-content: center;
