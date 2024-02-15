@@ -139,19 +139,30 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 900px;
-    height: 120px;
+    width: 990px;
+    height: 160px;
+    padding: 5px;
     background: #3882F6;
     border-radius: 5px;
 }
 .container-right{
     border: solid pink;
+    margin: 10px;
     
 }
 .container-left{
     border:solid red;
     color: #F9FAF8;
-    
+    margin: 10px;
+    font-size: 20px;
+}
+.upper{
+    font-weight: 800;
+
+    padding: 5px;
+}
+.lower{
+    padding: 5px;
 }
 .container button{
     border-color: #E5E7EB;
