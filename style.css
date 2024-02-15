@@ -129,7 +129,6 @@ a{
     margin-left: -360px;
 }
 .callToAction-box{
-    border: solid green;
     height: 400px;
     display: flex;
     justify-content: center;
@@ -146,18 +145,18 @@ a{
     border-radius: 5px;
 }
 .container-right{
-    margin: 10px;
+    margin-left: 10px;
+    padding-left: 10px;
     
 }
 .container-left{
-    border:solid red;
     color: #F9FAF8;
     margin: 10px;
     font-size: 20px;
+    padding-right: 10px;
 }
 .upper{
     font-weight: 800;
-
     padding: 5px;
 }
 .lower{
