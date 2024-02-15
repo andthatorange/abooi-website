@@ -131,6 +131,9 @@ a{
 .callToAction-box{
     border: solid green;
     height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .container{
     width: 700px;
