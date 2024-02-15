@@ -11,28 +11,23 @@ header{
     justify-content: space-between;
     padding: 10px 20px;
     background-color: #1F2937;
-    border: solid red;
 
 }
 a{
     text-decoration: none;
-    border: solid yellow;
    
 }
 .header-left{
-    border: solid pink;
     margin-left: 120px;
 }
 .header-left a{
     font: 24px ;
     color: #F9FAF8;
     text-transform: uppercase;
-    border: solid green;
 }
 .header-right{
     text-transform: lowercase;
-    border: solid orange;
-    display: flex; /* Added flexbox to align items */
+    display: flex; 
     gap: 170px;
     margin-right: 120px;
 }
@@ -49,44 +44,35 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
-    border: solid olive;
 }
 .intro-container{
     display: flex;
     justify-content: center;
     gap: 30px;
-    border: solid indigo;
 }
 .intro-left{
     width: 700px;
-    border: solid aqua;
 }
 .big-text{
     font-size:48px;
     font-weight: 800;
     color: #F9FAF8;
-    border: solid wheat;
     
 }
 .small-text{
     margin-top: 20px;
     font: 18px ;
     color: #E5E7EB;
-    border: solid saddlebrown;
-}
-.intro-right{
-    border: solid hotpink;
 }
 .img-intro{
     width: 600px;
     height: 350px;
-    border: solid firebrick;
 }
 .intro-button{
     background-color:#3882F6;
     width: 100px;
     height: 40px;
-    border:solid salmon;
+    border: solid       #1F2937;
     color: white;
     font-size: 20px;
     margin-top: 20px;
