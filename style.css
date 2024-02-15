@@ -21,6 +21,7 @@ a{
 }
 .header-left{
     border: solid pink;
+    margin-left: 120px;
 }
 .header-left a{
     font: 24px ;
@@ -33,6 +34,7 @@ a{
     border: solid orange;
     display: flex; /* Added flexbox to align items */
     gap: 170px;
+    margin-right: 120px;
 }
 .header-right a{
     font-size: 18px ;
