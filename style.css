@@ -150,3 +150,20 @@ footer{
     align-items: center;
     justify-content: center;
 }
+.container-right{
+    border: solid pink;
+    
+}
+.container-left{
+    border:solid red;
+}
+.container button{
+    border-color: #E5E7EB;
+    background-color:#3882F6;
+    width: 130px;
+    height: 30px;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    
+}
