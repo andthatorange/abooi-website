@@ -137,18 +137,12 @@ a{
 }
 .container{
     display: flex;
+    justify-content: center;
+    align-items: center;
     width: 900px;
     height: 120px;
     background: #3882F6;
     border-radius: 5px;
-}
-footer{
-    height: 60px;
-    background-color: #1F2937;
-    color: #F9FAF8;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 .container-right{
     border: solid pink;
@@ -156,6 +150,7 @@ footer{
 }
 .container-left{
     border:solid red;
+    
 }
 .container button{
     border-color: #E5E7EB;
@@ -166,4 +161,12 @@ footer{
     font-size: 20px;
     border-radius: 5px;
     
+}
+footer{
+    height: 60px;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
