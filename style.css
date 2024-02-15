@@ -49,6 +49,12 @@ a{
     align-items: center;
     border: solid olive;
 }
+.intro-container{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    border: solid indigo;
+}
 .intro-left{
     width: 700px;
     border: solid aqua;
