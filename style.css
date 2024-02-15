@@ -129,10 +129,13 @@ a{
     margin-left: -360px;
 }
 .callToAction-box{
-    display: flex;
-    justify-content: center;
     border: solid green;
     height: 400px;
+}
+.container{
+    width: 700px;
+    height: 200px;
+    background: #3882F6;
 }
 footer{
     height: 60px;
