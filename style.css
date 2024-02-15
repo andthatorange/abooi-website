@@ -43,10 +43,10 @@ a{
 }
 .intro{
     background-color: #1F2937;
-    padding-top: 160px;
-    padding-bottom: 100px;
-    height: 390px;
+    height: 650px;
     display: flex;
+    justify-content: center;
+    align-items: center;
     border: solid olive;
 }
 .intro-left{
