@@ -127,6 +127,7 @@ a{
 }
 .quote{
     font-size: 36px;
+    font-family: 'DejaVu Serif', serif;
     font-style: italic;
     color:#1F2937;
     width: 750px;
