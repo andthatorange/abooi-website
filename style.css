@@ -5,7 +5,8 @@ p{
 header{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
+    padding: 10px 20px;
     background-color: #1F2937;
     border: solid red;
 
@@ -25,14 +26,14 @@ a{
     border: solid green;
 }
 .header-right{
-    margin-left: 300px;
     text-transform: lowercase;
     border: solid orange;
+    display: flex; /* Added flexbox to align items */
+    gap: 170px;
 }
 .header-right a{
     font-size: 18px ;
     color: #E5E7EB;
-    padding-left: 135px;
 }
 .header-right a:hover{
     color: rgb(255, 177, 75);
