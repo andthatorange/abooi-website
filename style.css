@@ -1,14 +1,20 @@
-p{
+*{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
-body{
-    background-color: #1F2937;
+
+body {
+    font-family: "Poppins", sans-serif;
 }
-header{
+header, .hero{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 80px;
+}
+header{
+    
     padding: 10px 20px;
     background-color: #1F2937;
 
@@ -28,7 +34,8 @@ a{
 .header-right{
     text-transform: lowercase;
     display: flex; 
-    gap: 170px;
+    justify-content: space-between;
+    gap: 60px;
     margin-right: 120px;
 }
 .header-right a{
@@ -39,43 +46,41 @@ a{
     color: rgb(255, 177, 75);
 }
 .hero{
-    background-color: #1F2937;
+    background-color: #EEEEEE;
     height: 680px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.hero-container{
-    display: flex;
-    justify-content: center;
-    gap: 30px;
 }
 .hero-left{
-    width: 700px;
+    margin-left: 120px;
+    width: 800px;
 }
 .big-text{
     font-size:48px;
-    font-weight: 800;
-    color: #F9FAF8;
+    font-weight: 700;
+    color:#1F2937;
     
+}
+.blue-text{
+    color: #3882F6;
 }
 .small-text{
     margin-top: 20px;
     font: 18px ;
-    color: #E5E7EB;
+    color:#1F2937;
+}
+.hero-right{
+    margin-right: 120px;
 }
 .img-hero{
-    width: 600px;
-    height: 350px;
+    width: 450px;
+    height: 550px;
 }
 .hero-button{
     background-color:#3882F6;
     width: 100px;
     height: 40px;
-    border: solid #1F2937;
     color: white;
     font-size: 20px;
-    margin-top: 20px;
+    margin-top: 40px;
     border-radius: 6px;
 }
 .info{
@@ -108,7 +113,7 @@ a{
 }
 .quote-box{
     height:500px;
-    background-color: #EFE7EB;
+    background-color: #EEEEEE;
     display: flex;
     justify-content: center;
     
