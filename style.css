@@ -38,19 +38,19 @@ a{
 .header-right a:hover{
     color: rgb(255, 177, 75);
 }
-.intro{
+.hero{
     background-color: #1F2937;
     height: 680px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.intro-container{
+.hero-container{
     display: flex;
     justify-content: center;
     gap: 30px;
 }
-.intro-left{
+.hero-left{
     width: 700px;
 }
 .big-text{
@@ -64,15 +64,15 @@ a{
     font: 18px ;
     color: #E5E7EB;
 }
-.img-intro{
+.img-hero{
     width: 600px;
     height: 350px;
 }
-.intro-button{
+.hero-button{
     background-color:#3882F6;
     width: 100px;
     height: 40px;
-    border: solid       #1F2937;
+    border: solid #1F2937;
     color: white;
     font-size: 20px;
     margin-top: 20px;
